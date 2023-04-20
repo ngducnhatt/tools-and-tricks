@@ -92,6 +92,15 @@
 -   Go to `chrome://flags`
 -   Press `Ctrl` + `F` search `Parallel downloading` choose `Enabled`
 
+## V. Config windows
+
+-   Go to https://christitus.com/debloat-windows-10-2020/
+-   Open PowerShell type `iwr -useb https://christitus.com/win | iex`
+
+## V. Create High Performance plan
+
+-   Open CMD type `powercfg -duplicatescheme 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c`
+
 # Support and contact
 
 <a href="https://bit.ly/3ykbdSS?r=lp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"></a>
