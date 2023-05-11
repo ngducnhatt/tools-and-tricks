@@ -39,7 +39,7 @@
 | 18. [Ultra View](https://github.com/ngnducnhat/tools-and-tricks/releases/download/tools/UltraViewer_setup_6.6_vi.exe)                        | https://www.ultraviewer.net/vi/                                |
 | 19. [Unikey](https://github.com/ngnducnhat/tools-and-tricks/releases/download/tools/UniKeyNT.exe)                                            | https://unikey.org/                                            |
 | 20. [Virtual C++](https://github.com/ngnducnhat/tools-and-tricks/releases/download/tools/VC_redist.x64.exe)                                  |                                                                |
-| 21. [VMware 16](https://github.com/ngnducnhat/tools-and-tricks/releases/download/tools/VMware-workstation-full-16.2.1-18811642.exe)          |                                                                |
+| 21. [VMware 16](https://github.com/ngnducnhat/tools-and-tricks/releases/download/tools/VMware-workstation-full-16.2.1-18811642.exe)          | ZF3R0-FHED2-M80TY-8QYGC-NPKYF                                  |
 | 22. [VS Code](https://github.com/ngnducnhat/tools-and-tricks/releases/download/tools/VSCodeUserSetup-x64-1.63.1.exe)                         | https://code.visualstudio.com/                                 |
 | 23. [Winrar](https://github.com/ngnducnhat/tools-and-tricks/releases/download/tools/Winrar_x64_6.0.2.zip)                                    | https://www.win-rar.com/                                       |
 
