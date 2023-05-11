@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngnducnhat&repo=tools-and-tricks">
-</p>
+</p> -->
 
 <p align="center">
     <img src="https://img.shields.io/github/forks/ngnducnhat/tools-and-tricks?style=flat-square">
