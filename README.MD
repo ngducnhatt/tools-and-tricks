@@ -48,7 +48,7 @@
 | Adobe                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1. [After Effects CC 2022](https://github.com/ngnducnhat/tools-and-tricks/releases/download/adobe/Adobe.After.Effects.2022.exe) |
-| 2. [Premiere Pro CC 2022](https://github.com/ngnducnhat/tools-and-tricks/releases/download/adobe/Adobe.Premiere.Pro.2022.exe)   |
+| 2. [Premiere Pro CC 2022](https://github.com/ngnducnhat/tools-and-tricks/releases/download/adobe/Adobe.Premiere.Pro.2023.rar)   |
 | 3. [Photoshop CC 2022](https://github.com/ngnducnhat/tools-and-tricks/releases/download/adobe/Adobe.Photoshop.2022.exe)         |
 
 ## III. [Game](https://github.com/ngnducnhat/tools-and-tricks/releases/tag/game)
