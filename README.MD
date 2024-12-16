@@ -36,13 +36,19 @@ Set-ItemProperty -Path "HKLM:\SYSTEM\ControlSet001\Control\GraphicsDrivers\Confi
 
 ## IV. Max speed download in Chrome
 
--   Go to `chrome://flags`
+-   Go to 
+```
+chrome://flags
+```
 -   Press `Ctrl` + `F` search `Parallel downloading` choose `Enabled`
 
 ## V. Config windows
 
 -   Go to https://christitus.com/debloat-windows-10-2020/
--   Open PowerShell type `iwr -useb https://christitus.com/win | iex`
+-   Open PowerShell type 
+```
+iwr -useb https://christitus.com/win | iex
+```
 
 ## V. Create High Performance plan
 
