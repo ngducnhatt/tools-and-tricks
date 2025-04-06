@@ -65,8 +65,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 Or you can run :
 ```
-iwr -useb https://github.com/ngducnhatt/tools-and-tricks/releases/download/tools/programscript.bat -OutFile programscript.bat
-Start-Process programscript.bat
+iwr -useb https://github.com/ngducnhatt/tools-and-tricks/releases/download/tools/run.bat -OutFile run.bat
+Start-Process run.bat
 ```
 
 # Support and contact
